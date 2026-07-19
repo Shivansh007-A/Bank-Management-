@@ -1,5 +1,5 @@
 import mysql.connector as sqltor
-mycon = sqltor.connect(host="localhost",user="root",passwd="Shivansh@007",database = "abc")
+mycon = sqltor.connect(host="localhost",user="root",passwd="**********",database = "abc")
 
 mycursor = mycon.cursor()
 
